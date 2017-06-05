@@ -37,7 +37,7 @@ $primary-color: color("blue-grey", "darken-2") !default;
 $primary-color-light: lighten($primary-color, 15%) !default;
 $primary-color-dark: darken($primary-color, 15%) !default;
 
-$secondary-color: color("light-blue", "lighten-2") !default;
+$secondary-color: color("blue", "base") !default;
 $secondary-color-light: lighten($secondary-color, 15%) !default;
 $secondary-color-dark: darken($secondary-color, 15%) !default;
 
